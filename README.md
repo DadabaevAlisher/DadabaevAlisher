@@ -10,9 +10,9 @@
 ## 🛠️ Tech Stack & Skills
 
 - **System Administration:** Windows Server, Ubuntu, Networking, Security
-- **Programming:** PHP (Laravel), Python (Django), Bash, JavaScript
+- **Programming:** Python (Django), Bash, PHP (Laravel)
 - **Databases:** MySQL, PostgreSQL, SQLite
-- **Tools & Platforms:** Git, GitHub, Docker, VS Code, Figma
+- **Tools & Platforms:** Git, GitHub, Docker, VS Code
 - **Deployment:** Ubuntu Server, GitHub Actions, Heroku
 - **Soft Skills:** Troubleshooting, Communication, Team Support, Documentation
 
