@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hello! I'm Alisher Dadaboyev
 
-<!--
-**DadabaevAlisher/DadabaevAlisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Former System Administrator at Business Development Bank, Fergana  
+🌍 Based in Uzbekistan  
+🔧 Passionate about backend development, server management & automation  
+📬 Reach me at: [dadabaev027@gmail.com]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+
+- **System Administration:** Windows Server, Ubuntu, Networking, Security
+- **Programming:** PHP (Laravel), Python (Django), Bash, JavaScript
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Tools & Platforms:** Git, GitHub, Docker, VS Code, Figma
+- **Deployment:** Ubuntu Server, GitHub Actions, Heroku
+- **Soft Skills:** Troubleshooting, Communication, Team Support, Documentation
+
+---
+
+## 🏢 Experience
+
+**🔹 System Administrator**  
+📍 *Business Development Bank — Fergana, Uzbekistan*  
+🕒 *[2024.06.01-2025.01.25]*  
+- Provided technical support to employees and maintained IT infrastructure  
+- Managed servers, performed system updates, and ensured cybersecurity  
+- Acted as a bridge between branch users and central IT department
+
+---
+
+## 🚀 Featured Projects
+
+| Project             | Description                                            | Tech Used                |
+|---------------------|--------------------------------------------------------|--------------------------|
+| Staff Support Portal | Internal tool to log and track employee tech issues   | Django, Mysql, PostgreSql|
+| Blog Website         | Personal blog system with authentication              | Redis, Bootstrap, SQLite |
+| Portfolio Website    | Website showcasing my skills and projects             | HTML, CSS, JavaScript    |
+
+---
+
+## 📊 GitHub Stats
+
+![Alisher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+---
+
+## 📚 Current Goals
+
+- 🚀 Become a professional backend developer using Django  
+- 🎓 Deepen my knowledge in system security and automation  
+- 🧠 Practice algorithms and problem-solving in Python  
+- 🌐 Start freelancing and build real-world SaaS applications
+
+---
+
+## 📫 Let's Connect
+  
+- 💬 [Telegram](https://t.me/@iDadabaev)  
+
+---
+
+> *"The only way to do great work is to love what you do." — Steve Jobs*
