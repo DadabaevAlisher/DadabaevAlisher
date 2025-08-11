@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack & Skills
 
-- **System Administration:** Windows Server, Ubuntu, Networking
+- **System Administration:** Windows Server, Windows, Ubuntu, Kali
 - **Programming:** Python (Django), DRF
 - **Databases:** MySQL, PostgreSQL, SQLite
 - **Tools & Platforms:** Git, GitHub, Docker, VS Code
