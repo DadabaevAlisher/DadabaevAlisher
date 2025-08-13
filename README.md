@@ -33,8 +33,8 @@
 
 | Project             | Description                                            | Tech Used                |
 |---------------------|--------------------------------------------------------|--------------------------|
-| Staff Support Portal | Internal tool to log and track employee tech issues   | Django, Mysql, PostgreSql|
-| Blog Website         | Personal blog system with authentication              | Redis, Bootstrap, SQLite |
+| Staff Support Portal | Internal tool to log and track employee tech issues   | Django, DRF, PostgreSql  |
+| Blog Website         | Personal blog system with authentication              | Mysql, Bootstrap, SQLite |
 | Portfolio Website    | Website showcasing my skills and projects             | HTML, CSS, JavaScript    |
 
 ---
